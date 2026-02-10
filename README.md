@@ -2,7 +2,7 @@
 
 `PLATAFORMA` DIO
 
-`FORMAÇÃO` Formação Github Certification
+`FORMAÇÃO` Github Certification
 
 `MÓDULO` Introdução aos Conceitos de Git e Github
 
